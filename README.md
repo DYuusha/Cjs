@@ -1,6 +1,6 @@
 # Cjs
-#Nombre del Lenguaje: C.js
-###Nombre del grupo: 2AM Solutions
+# Nombre del Lenguaje: C.js
+### Nombre del grupo: 2AM Solutions
 
 Luis Ernesto Fuentes Osorio
 00037415
